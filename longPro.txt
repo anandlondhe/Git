@@ -1,0 +1,9 @@
+X Stands for Cross platform (Means you can install xampp on any OS)
+
+A: Apache server (To run PHP script on local machine you need a server)
+
+M: Mysql (To store data in database and to perform database operation you need Mysql)
+
+P: PHP (Well known Scripting language to create dynamic website )
+
+P: Perl programming language.
